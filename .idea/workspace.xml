@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b243671-78c9-4f45-a746-da82bd190bf2" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/programmers/Level1/l1_가운데 글자 가져오기_solved.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Level1/l1_같은 숫자는 싫어_solved.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Level1/l1_나누어 떨어지는 숫자 배열_solved.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Level1/l1_두 정수 사이의 합_solved.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Level1/l1_문자열 내 p와 y의 개수_solved.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Level1/l1_서울에서 김서방 찾기_solved.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Level1/l1_수박수박수박수박수_solved.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/Level1/l1_2016년.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Level1/l1_2016년_solved.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/Level1/l1_가운데 글자 가져오기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/Level1/l1_같은 숫자는 싫어.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/Level1/l1_나누어 떨어지는 숫자 배열.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/Level1/l1_두 정수 사이의 합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/Level1/l1_문자열 내 p와 y의 개수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/Level1/l1_문자열 내 마음대로 정렬하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Level1/l1_문자열 내 마음대로 정렬하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/Level1/l1_문자열 내림차순으로 배치하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Level1/l1_문자열 내림차순으로 배치하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/Level1/l1_문자열 다루기 기본.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Level1/l1_문자열 다루기 기본.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/Level1/l1_문자열을 정수로 바꾸기.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Level1/l1_문자열을 정수로 바꾸기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/Level1/l1_서울에서 김서방 찾기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/Level1/l1_수박수박수박수박수.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="l1_가운데 글자 가져오기_solved.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_가운데 글자 가져오기_solved.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="l1_2016년_solved.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_2016년_solved.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="134">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="l1_문자열 내림차순으로 배치하기.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_문자열 내림차순으로 배치하기.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="l1_같은 숫자는 싫어_solved.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_같은 숫자는 싫어_solved.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="35" column="3" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="l1_나누어 떨어지는 숫자 배열_solved.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_나누어 떨어지는 숫자 배열_solved.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="43" column="3" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="l1_두 정수 사이의 합_solved.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_두 정수 사이의 합_solved.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="426">
+              <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="l1_문자열 내 마음대로 정렬하기.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_문자열 내 마음대로 정렬하기.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="426">
+              <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="l1_문자열 다루기 기본.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_문자열 다루기 기본.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="l1_문자열을 정수로 바꾸기.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_문자열을 정수로 바꾸기.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="l1_서울에서 김서방 찾기_solved.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_서울에서 김서방 찾기_solved.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" selection-start-line="19" selection-end-line="19" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/programmers/l1_2016년.py" />
+        <option value="$PROJECT_DIR$/programmers/l1_가운데 글자 가져오기.py" />
+        <option value="$PROJECT_DIR$/programmers/l1_같은 숫자는 싫어.py" />
+        <option value="$PROJECT_DIR$/programmers/l1_나누어 떨어지는 숫자 배열.py" />
+        <option value="$PROJECT_DIR$/programmers/l1_두 정수 사이의 합.py" />
+        <option value="$PROJECT_DIR$/programmers/l1_문자열 내 마음대로 정렬하기.py" />
+        <option value="$PROJECT_DIR$/programmers/l1_문자열 내 p와 y의 개수.py" />
+        <option value="$PROJECT_DIR$/programmers/l1_문자열 내림차순으로 배치하기.py" />
+        <option value="$PROJECT_DIR$/programmers/l1_문자열 다루기 기본.py" />
+        <option value="$PROJECT_DIR$/programmers/l1_서울에서 김서방 찾기.py" />
+        <option value="$PROJECT_DIR$/programmers/l1_소수 찾기.py" />
+        <option value="$PROJECT_DIR$/programmers/l1_수박수박수박수박수.py" />
+        <option value="$PROJECT_DIR$/programmers/l1_문자열을 정수로 바꾸기.py" />
+        <option value="$PROJECT_DIR$/programmers/l1_시저 암호.py" />
+        <option value="$PROJECT_DIR$/programmers/l1_약수의 합.py" />
+        <option value="$PROJECT_DIR$/programmers/l1_이상한 문자 만들기.py" />
+        <option value="$PROJECT_DIR$/programmers/l1_자릿수 더하기.py" />
+        <option value="$PROJECT_DIR$/programmers/l1_자연수 뒤집어 배열로 만들기.py" />
+        <option value="$PROJECT_DIR$/programmers/l1_정수 내림차순으로 배치하기.py" />
+        <option value="$PROJECT_DIR$/programmers/l1_정수 제곱근 판별.py" />
+        <option value="$PROJECT_DIR$/programmers/Level1/l1_문자열 내 마음대로 정렬하기.py" />
+        <option value="$PROJECT_DIR$/programmers/Level1/l1_서울에서 김서방 찾기.py" />
+        <option value="$PROJECT_DIR$/programmers/Level1/l1_문자열 내 p와 y의 개수.py" />
+        <option value="$PROJECT_DIR$/programmers/Level1/l1_두 정수 사이의 합.py" />
+        <option value="$PROJECT_DIR$/programmers/Level1/l1_나누어 떨어지는 숫자 배열.py" />
+        <option value="$PROJECT_DIR$/programmers/Level1/l1_같은 숫자는 싫어.py" />
+        <option value="$PROJECT_DIR$/programmers/Level1/l1_가운데 글자 가져오기.py" />
+        <option value="$PROJECT_DIR$/programmers/Level1/l1_2016년.py" />
+        <option value="$PROJECT_DIR$/programmers/Level1/l1_수박수박수박수박수.py" />
+        <option value="$PROJECT_DIR$/programmers/Level1/l1_문자열 내림차순으로 배치하기.py" />
+        <option value="$PROJECT_DIR$/programmers/Level1/l1_문자열 다루기 기본.py" />
+        <option value="$PROJECT_DIR$/programmers/Level1/l1_문자열을 정수로 바꾸기.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="416" />
+    <option name="y" value="1" />
+    <option name="width" value="780" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="programmers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="programmers" type="462c0819:PsiDirectoryNode" />
+              <item name="Level1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\myown\algorithm\programmers\Level1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b243671-78c9-4f45-a746-da82bd190bf2" name="Default" comment="" />
+      <created>1533171228719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533171228719</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="416" y="1" width="780" height="728" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4528302" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_소수 찾기.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_시저 암호.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_약수의 합.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_이상한 문자 만들기.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_자릿수 더하기.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_자연수 뒤집어 배열로 만들기.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_정수 내림차순으로 배치하기.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_정수 제곱근 판별.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_수박수박수박수박수_solved.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_문자열 내 p와 y의 개수_solved.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="45" column="3" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_2016년_solved.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_가운데 글자 가져오기_solved.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_같은 숫자는 싫어_solved.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="35" column="3" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_나누어 떨어지는 숫자 배열_solved.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="43" column="3" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_두 정수 사이의 합_solved.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_문자열 내 마음대로 정렬하기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_문자열 내림차순으로 배치하기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_문자열 다루기 기본.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_문자열을 정수로 바꾸기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_서울에서 김서방 찾기_solved.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" selection-start-line="19" selection-end-line="19" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

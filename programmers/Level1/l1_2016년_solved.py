@@ -30,3 +30,5 @@ def solution(a, b):
 
     answer = day[int(total_day % 7)]
     return answer
+
+#해결
