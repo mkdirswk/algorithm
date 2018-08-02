@@ -1,0 +1,23 @@
+1. lambda [iterater] [key = ] [option]
+
+2. 스트링을 리스트로 변환
+str = ''join(list)
+
+3. 리스트를 스트링으로 변환
+str = list(str)
+
+4. ascii값 출력
+
+ord(c)
+
+5. 문자열을 사전순으로 정렬
+
+str.sort()
+
+6. 리스트를 사전순으로 정렬
+
+temp_list = sorted(s, key = lambda element : ord(element),reverse = True)
+
+7. 리스트에서 인덱스를 찾고 싶을 때
+
+list.index(str or c)

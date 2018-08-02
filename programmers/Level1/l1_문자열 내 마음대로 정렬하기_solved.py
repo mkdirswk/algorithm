@@ -26,6 +26,15 @@ sun, bed, car의 1번째 인덱스 값은 각각 u, e, a 입니다. 이를 기�
 abce와 abcd, cdx의 2번째 인덱스 값은 c, c, x입니다. 따라서 정렬 후에는 cdx가 가장 뒤에 위치합니다.
 abce와 abcd는 사전순으로 정렬하면 abcd가 우선하므로, 답은 [abcd, abce, cdx] 입니다.
 """
+
+strings = ['abce', 'abcd', 'cdx']
+n = 2
+
+
 def solution(strings, n):
-    answer = []
-    return answer
+
+    strings.sort()
+    return sorted(strings, key = lambda element : element[n])
+
+
+

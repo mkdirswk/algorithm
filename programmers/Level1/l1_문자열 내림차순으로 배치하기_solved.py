@@ -10,7 +10,13 @@ str은 길이 1 이상인 문자열입니다.
 s	return
 Zbcdefg	gfedcbZ
 """
+s = 'Zbcdefg'
 
 def solution(s):
-    answer = ''
+    temp_list = sorted(s, key = lambda element : ord(element),reverse = True)
+    answer = ''.join(temp_list)
     return answer
+
+
+print(solution(s))
+#print(ord('a'),ord('z'),ord('A'),ord('Z'))

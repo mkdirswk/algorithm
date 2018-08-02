@@ -11,6 +11,20 @@ s	return
 a234	false
 1234	true
 """
+
+s = '1a34'
 def solution(s):
-    answer = True
-    return answer
+
+    if len(s) == 4 or len(s) == 6:
+        
+        for d in s:
+            if ord(d) < 48 or ord(d) > 58:
+                return False
+
+        return True
+
+    return False
+
+
+
+
