@@ -6,9 +6,9 @@ str = ''join(list)
 3. 리스트를 스트링으로 변환
 str = list(str)
 
-4. ascii값 출력
+4. ascii값 출력, ascii를 문자로 출력
 
-ord(c)
+ord(c), chr(d)
 
 5. 문자열을 사전순으로 정렬
 
@@ -21,3 +21,7 @@ temp_list = sorted(s, key = lambda element : ord(element),reverse = True)
 7. 리스트에서 인덱스를 찾고 싶을 때
 
 list.index(str or c)
+
+8. 문자열이 숫자만으로 이루어졌는가 판별
+
+str.isdigit() -> 숫자만이면 True 아니면 False 리턴
