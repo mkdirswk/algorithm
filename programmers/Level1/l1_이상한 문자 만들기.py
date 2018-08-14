@@ -17,21 +17,31 @@ try hello world는 세 단어 try, hello, world로 구성되어 있습니다.
 각 단어의 짝수번째 문자를 대문자로,
 홀수번째 문자를 소문자로 바꾸면 TrY, HeLlO, WoRlD입니다.
 따라서 TrY HeLlO WoRlD 를 리턴합니다.
+
+Try hello world
 """
-s = 'try hello world'
+s = 'adklKs   jdkjlskljs lznzDKAD     '
+
 def solution(s):
-    temp_list = s.split(" ")
+
     temp_str = ''
-    for i in temp_list:
-        for j in range(len(i)):
-            if j % 2 == 1:
-                i[j].upper()
+    temp_num = 0
 
-            else:
-                pass
+    for j in s:
 
+        if temp_num % 2 == 0:
+            temp_str += j.upper()
 
+        elif temp_num % 2 == 1:
+            temp_str += j.lower()
 
+        else:
+            temp_num = -1
+        temp_num += 1
 
+    #return temp_str
 
-solution(s)
+    temp_list = lambda x : x % 2, reverse
+
+print(solution(s))
+#print(ord('A'),ord('Z'),ord('a'),ord('z'))

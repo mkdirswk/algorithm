@@ -16,10 +16,22 @@ n	return
 입출력 예 #2
 5의 약수는 1, 5입니다. 이를 모두 더하면 6입니다.
 """
+n = 3000
+
 def solution(n):
-    answer = 0
-    return answer
+    if n == 0:
+        return 0
+    if n == 1:
+        return 1
 
-"""
+    divisor = []
 
-"""
+    for i in range(n // 2, 1 , -1):
+        if n % i == 0:
+            divisor.append(i)
+        else:
+            continue
+
+    return sum(divisor) + n + 1
+
+print(solution(n))
