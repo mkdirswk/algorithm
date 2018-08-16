@@ -25,9 +25,11 @@
 
 
 """
-a = 5
-b = 3
-#a, b = map(int, input().strip().split(' '))
-f = list(map(lambda x ,y: x + 10, [1,2,3]))
+#a = 5
+#b = 3
 
-print(f)
+
+a, b = map(int, input().strip().split(' '))
+print(('*' * a + '\n') * b)
+# print(print('*'* a)) * b
+
