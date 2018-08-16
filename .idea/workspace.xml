@@ -2,23 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b243671-78c9-4f45-a746-da82bd190bf2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers/Level1/l1_x만큼 간격이 있는 n개의 숫자_solved.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/Level1/l1_자연수 뒤집어 배열로 만들기_solved.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/Level1/l1_정수 내림차순으로 배치하기_solved.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/Level1/l1_정수 제곱근 판별_solved.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/Level1/l1_제일 작은 수 제거하기_solved.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/Level1/l1_짝수와 홀수_solved.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/Level1/l1_콜라츠 추측_solved.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/Level1/l1_평균 구하기_solved.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/Level1/l1_하샤드 수_solved.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/Level1/l1_핸드폰 번호 가리기_solved.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/Level1/l1_행렬의 덧셈_solved.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Level1/l1_최대공약수와 최소공배수_solved.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Level2/l2_124 나라의 숫자.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Level2/l2_JadenCase 문자열 만들기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Level2/l2_N개의 최소공배수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Level2/l2_가장 큰 정사각형 찾기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Level2/l2_다음 큰 숫자.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Level2/l2_땅따먹기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Level2/l2_숫자의 표현.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Level2/l2_올바른 괄호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Level2/l2_최댓값과 최솟값.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Level2/l2_최솟값 만들기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Level2/l2_피보나치 수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Level2/l2_행렬의 곱셈.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/Level1/l1_소수 찾기.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Level1/l1_소수 찾기_solved.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/Level1/l1_자연수 뒤집어 배열로 만들기.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Level1/l1_최대공약수와 최소공배수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/Level1/l1_정수 내림차순으로 배치하기.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/Level1/l1_정수 제곱근 판별.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/Level1/l1_직사각형 별 찍기.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Level1/l1_직사각형 별 찍기_solved.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/Level1/l1_이상한 문자 만들기.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Level1/l1_이상한 문자 만들기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/Level1/l1_최대공약수와 최소공배수.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,92 +28,60 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="l1_직사각형 별 찍기_solved.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_직사각형 별 찍기_solved.py">
+      <file leaf-file-name="l2_땅따먹기.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_땅따먹기.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="l2_숫자의 표현.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_숫자의 표현.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="l2_최댓값과 최솟값.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_최댓값과 최솟값.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="l2_최솟값 만들기.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_최솟값 만들기.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="l2_피보나치 수.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_피보나치 수.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="l2_행렬의 곱셈.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_행렬의 곱셈.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="l2_JadenCase 문자열 만들기.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_JadenCase 문자열 만들기.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="l2_N개의 최소공배수.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_N개의 최소공배수.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="l2_124 나라의 숫자.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_124 나라의 숫자.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="32" column="27" selection-start-line="31" selection-end-line="32" selection-end-column="27" />
+            <state relative-caret-position="182">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="l1_문자열 내 마음대로 정렬하기_solved.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_문자열 내 마음대로 정렬하기_solved.py">
+      <file leaf-file-name="l2_가장 큰 정사각형 찾기.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_가장 큰 정사각형 찾기.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="36" column="61" lean-forward="true" selection-start-line="36" selection-start-column="61" selection-end-line="36" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="l1_제일 작은 수 제거하기_solved.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_제일 작은 수 제거하기_solved.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="l1_짝수와 홀수_solved.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_짝수와 홀수_solved.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="18" column="22" selection-start-line="16" selection-end-line="18" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="l1_콜라츠 추측_solved.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_콜라츠 추측_solved.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="33" column="14" lean-forward="true" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="l1_하샤드 수_solved.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_하샤드 수_solved.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="44" selection-start-line="44" selection-end-line="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="l1_행렬의 덧셈_solved.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_행렬의 덧셈_solved.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="l1_최대공약수와 최소공배수.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_최대공약수와 최소공배수.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="l1_평균 구하기_solved.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_평균 구하기_solved.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="l1_핸드폰 번호 가리기_solved.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_핸드폰 번호 가리기_solved.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="95">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -134,18 +101,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/programmers/l1_2016년.py" />
-        <option value="$PROJECT_DIR$/programmers/l1_가운데 글자 가져오기.py" />
-        <option value="$PROJECT_DIR$/programmers/l1_같은 숫자는 싫어.py" />
-        <option value="$PROJECT_DIR$/programmers/l1_나누어 떨어지는 숫자 배열.py" />
-        <option value="$PROJECT_DIR$/programmers/l1_두 정수 사이의 합.py" />
-        <option value="$PROJECT_DIR$/programmers/l1_문자열 내 마음대로 정렬하기.py" />
-        <option value="$PROJECT_DIR$/programmers/l1_문자열 내 p와 y의 개수.py" />
-        <option value="$PROJECT_DIR$/programmers/l1_문자열 내림차순으로 배치하기.py" />
-        <option value="$PROJECT_DIR$/programmers/l1_문자열 다루기 기본.py" />
-        <option value="$PROJECT_DIR$/programmers/l1_서울에서 김서방 찾기.py" />
-        <option value="$PROJECT_DIR$/programmers/l1_소수 찾기.py" />
-        <option value="$PROJECT_DIR$/programmers/l1_수박수박수박수박수.py" />
         <option value="$PROJECT_DIR$/programmers/l1_문자열을 정수로 바꾸기.py" />
         <option value="$PROJECT_DIR$/programmers/l1_시저 암호.py" />
         <option value="$PROJECT_DIR$/programmers/l1_약수의 합.py" />
@@ -170,7 +125,6 @@
         <option value="$PROJECT_DIR$/programmers/Level1/l1_자릿수 더하기.py" />
         <option value="$PROJECT_DIR$/programmers/Level1/l1_소수 찾기.py" />
         <option value="$PROJECT_DIR$/programmers/Level1/l1_약수의 합.py" />
-        <option value="$PROJECT_DIR$/programmers/Level1/l1_이상한 문자 만들기.py" />
         <option value="$PROJECT_DIR$/programmers/Level1/l1_자연수 뒤집어 배열로 만들기.py" />
         <option value="$PROJECT_DIR$/programmers/Level1/l1_정수 내림차순으로 배치하기.py" />
         <option value="$PROJECT_DIR$/programmers/Level1/l1_정수 제곱근 판별.py" />
@@ -181,16 +135,29 @@
         <option value="$PROJECT_DIR$/programmers/Level1/l1_콜라츠 추측.py" />
         <option value="$PROJECT_DIR$/programmers/Level1/l1_제일 작은 수 제거하기.py" />
         <option value="$PROJECT_DIR$/programmers/Level1/l1_핸드폰 번호 가리기.py" />
-        <option value="$PROJECT_DIR$/programmers/Level1/l1_최대공약수와 최소공배수.py" />
         <option value="$PROJECT_DIR$/programmers/Level1/l1_행렬의 덧셈.py" />
         <option value="$PROJECT_DIR$/programmers/Level1/l1_제일 작은 수 제거하기_solved.py" />
         <option value="$PROJECT_DIR$/programmers/Level1/l1_직사각형 별 찍기.py" />
+        <option value="$PROJECT_DIR$/programmers/Level1/l1_이상한 문자 만들기.py" />
+        <option value="$PROJECT_DIR$/programmers/Level1/l1_최대공약수와 최소공배수.py" />
+        <option value="$PROJECT_DIR$/programmers/Level2/l2_올바른 괄호.py" />
+        <option value="$PROJECT_DIR$/programmers/Level2/l2_다음 큰 숫자.py" />
+        <option value="$PROJECT_DIR$/programmers/Level2/l2_땅따먹기.py" />
+        <option value="$PROJECT_DIR$/programmers/Level2/l2_숫자의 표현.py" />
+        <option value="$PROJECT_DIR$/programmers/Level2/l2_최댓값과 최솟값.py" />
+        <option value="$PROJECT_DIR$/programmers/Level2/l2_최솟값 만들기.py" />
+        <option value="$PROJECT_DIR$/programmers/Level2/l2_피보나치 수.py" />
+        <option value="$PROJECT_DIR$/programmers/Level2/l2_행렬의 곱셈.py" />
+        <option value="$PROJECT_DIR$/programmers/Level2/l2_JadenCase 문자열 만들기.py" />
+        <option value="$PROJECT_DIR$/programmers/Level2/N개의 최소공배수.py" />
+        <option value="$PROJECT_DIR$/programmers/Level2/l2_124 나라의 숫자.py" />
+        <option value="$PROJECT_DIR$/programmers/Level2/l2_가장 큰 정사각형 찾기.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="167" />
-    <option name="y" value="53" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="579" />
+    <option name="y" value="15" />
     <option name="width" value="780" />
     <option name="height" value="728" />
   </component>
@@ -220,6 +187,12 @@
               <item name="programmers" type="462c0819:PsiDirectoryNode" />
               <item name="Level1" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="programmers" type="462c0819:PsiDirectoryNode" />
+              <item name="Level2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -248,25 +221,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.l1_직사각형 별 찍기">
-    <configuration name="l1_제일 작은 수 제거하기" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/Level1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Desktop\myown\algorithm\programmers\Level1\l1_제일 작은 수 제거하기_solved.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.l2_124 나라의 숫자">
     <configuration name="l1_핸드폰 번호 가리기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -375,7 +330,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="l1_콜라츠 추측" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="l1_최대공약수와 최소공배수" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -387,7 +342,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Desktop\myown\algorithm\programmers\Level1\l1_콜라츠 추측_solved.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Desktop\myown\algorithm\programmers\Level1\l1_최대공약수와 최소공배수_solved.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -429,20 +384,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="l2_124 나라의 숫자" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/Level2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Level2/l2_124 나라의 숫자.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.l1_콜라츠 추측" />
-      <item itemvalue="Python.l1_제일 작은 수 제거하기" />
       <item itemvalue="Python.l1_핸드폰 번호 가리기" />
       <item itemvalue="Python.l1_행렬의 덧셈" />
       <item itemvalue="Python.l1_직사각형 별 찍기" />
+      <item itemvalue="Python.l1_최대공약수와 최소공배수" />
+      <item itemvalue="Python.l2_124 나라의 숫자" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.l2_124 나라의 숫자" />
+        <item itemvalue="Python.l1_최대공약수와 최소공배수" />
         <item itemvalue="Python.l1_직사각형 별 찍기" />
         <item itemvalue="Python.l1_행렬의 덧셈" />
         <item itemvalue="Python.l1_핸드폰 번호 가리기" />
-        <item itemvalue="Python.l1_제일 작은 수 제거하기" />
-        <item itemvalue="Python.l1_콜라츠 추측" />
       </list>
     </recent_temporary>
   </component>
@@ -460,7 +433,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23586309" />
@@ -529,96 +502,25 @@
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/programmers/Level1/l1_최대공약수와 최소공배수.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/programmers/Level1/l1_행렬의 덧셈_solved.py</url>
           <line>24</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/programmers/Level1/l1_최대공약수와 최소공배수_solved.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/programmers/Level2/l2_124 나라의 숫자.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="20" />
+      <option name="time" value="22" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_약수의 합_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_이상한 문자 만들기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_문자열을 정수로 바꾸기_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_소수 찾기_solved.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_수박수박수박수박수_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_시저 암호_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_자릿수 더하기_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_이상한 문자 만들기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_문자열을 정수로 바꾸기_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_약수의 합_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_소수 찾기_solved.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_시저 암호_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_약수의 합_solved.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
@@ -769,13 +671,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_이상한 문자 만들기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="41" column="20" lean-forward="true" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_자릿수 더하기_solved.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="334">
@@ -881,10 +776,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_최대공약수와 최소공배수.py">
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_이상한 문자 만들기.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="239">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_최대공약수와 최소공배수_solved.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_올바른 괄호.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_다음 큰 숫자.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_땅따먹기.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_숫자의 표현.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_최댓값과 최솟값.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_최솟값 만들기.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_피보나치 수.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_행렬의 곱셈.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_JadenCase 문자열 만들기.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_N개의 최소공배수.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_124 나라의 숫자.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_가장 큰 정사각형 찾기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>

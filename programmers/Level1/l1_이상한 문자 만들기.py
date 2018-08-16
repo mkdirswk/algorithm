@@ -23,25 +23,5 @@ Try hello world
 s = 'adklKs   jdkjlskljs lznzDKAD     '
 
 def solution(s):
+    pass
 
-    temp_str = ''
-    temp_num = 0
-
-    for j in s:
-
-        if temp_num % 2 == 0:
-            temp_str += j.upper()
-
-        elif temp_num % 2 == 1:
-            temp_str += j.lower()
-
-        else:
-            temp_num = -1
-        temp_num += 1
-
-    #return temp_str
-
-    temp_list = lambda x : x % 2, reverse
-
-print(solution(s))
-#print(ord('A'),ord('Z'),ord('a'),ord('z'))
