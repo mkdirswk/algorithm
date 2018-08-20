@@ -25,12 +25,13 @@ def solution(s):
         if i == 0:
             s = s.replace(s[0],s[0].upper())
         if i < len(s) - 1 and s[i] == ' ':
-            s = s.replace(s[i + 1],s[i + 1].upper())
+            s[i + 1].upper()
 
     return s
 #
 #
-#
+
+
 print(solution(s))
 
 
