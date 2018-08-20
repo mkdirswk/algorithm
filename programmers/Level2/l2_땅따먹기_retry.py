@@ -34,26 +34,12 @@ land	answer
 문제의 예시와 같습니다.
 """
 
-land = [[1,2,3,5],[5,6,7,8],[4,3,2,1]]
+land = [[1,3,5,4],[2,1,9,8],[1,2,3,100]]
 
 def solution(land):
-    current_locate = 0
-    result = 0
-    for i in range(len(land)):
-        if i == 0:
-            current_locate = land[0].index(max(land[0]))
-            result += max(land[0])
-        else:
-            if land[i].index(max(land[i])) == current_locate:
-                land[i][current_locate] = 0
-                current_locate = land[i].index(max(land[i]))
-                result += max(land[i])
-            else:
-                current_locate = land[i].index(max(land[i]))
-                result += max(land[i])
 
     return result
-
+#5 + 7 + 5 + 7 + 8
 
 
 

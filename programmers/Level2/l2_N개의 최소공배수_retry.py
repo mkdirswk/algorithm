@@ -17,14 +17,18 @@ arr	result
 [1,2,3]	6
 """
 import math
-
+arr = [2,7,14]
 def solution(arr):
-    arr = [2,6,8,14]
+
     current_gcd = max(arr)
     multi_all = 1
     for m in arr:
         current_gcd = math.gcd(m, current_gcd)
         multi_all *= m
+        multi_all /= current_gcd
 
 
-    return (int)(multi_all / (current_gcd ** (len(arr) - 1)))
+    return (int)(multi_all)  # / (current_gcd ** (len(arr) - 1))
+
+
+print(solution(arr))

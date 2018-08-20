@@ -27,11 +27,10 @@ n	result
 4	11
 """
 
-n = 100
+n = 30
 modlist = []
 def solution(n):
     n = n - 1
-
 
     result = n // 3
     mod = n % 3

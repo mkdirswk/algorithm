@@ -28,7 +28,7 @@ s	answer
 문제의 예시와 같습니다.
 """
 
-s = '()))((()'
+s = '(())()'
 
 def solution(s):
     bracket_list = [i for i in s]
@@ -37,11 +37,12 @@ def solution(s):
     if bracket_list[0] == ')' or bracket_list[-1] == '(': return False
 
     for m in range(len(bracket_list)):
-        if bracket_list[m] == '(' and m != -1:
+        if bracket_list[m] == '(' and m != (len(bracket_list) - 1):
             for n in range(m + 1, len(bracket_list)):
                 if bracket_list[n] == ')' and bool_list[n] != True:
                     bool_list[m] = True
                     bool_list[n] = True
+                    break
 
     bool_count = 0
 
