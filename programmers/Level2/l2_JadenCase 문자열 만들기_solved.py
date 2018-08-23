@@ -16,20 +16,32 @@ s	return
 for the last week	For The Last Week
 """
 
-s = "   3people unFollowed    me "
-list = ['3people','unFollowed']
+s = "for the last week"
+
 def solution(s):
-    s = s.lower()
+    result = ''
+    isSpace = False
+    first_count = 0
+    for i in s:
+        if first_count == 0:
+            i = i.upper()
+            isSpace = True
+            first_count = 1
+        if i == ' ':
+            isSpace = True
+        elif isSpace == True:
+            i = i.upper()
+            isSpace = False
+        else:
+            i = i.lower()
+            isSpace = False
 
-    for i in range(len(s)):
-        if i == 0:
-            s = s.replace(s[0],s[0].upper())
-        if i < len(s) - 1 and s[i] == ' ':
-            s[i + 1].upper()
+        result += i
 
-    return s
-#
-#
+    return result
+
+
+
 
 
 print(solution(s))

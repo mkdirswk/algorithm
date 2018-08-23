@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b243671-78c9-4f45-a746-da82bd190bf2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers/Level2/l2_가장 큰 정사각형 찾기_retry.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/Level2/l2_124 나라의 숫자_solved.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Level2/l2_124 나라의 숫자_solved.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/Level2/l2_N개의 최소공배수_retry.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Level2/l2_N개의 최소공배수_retry.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/Level2/l2_가장 큰 정사각형 찾기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/Level2/l2_JadenCase 문자열 만들기_retry.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Level2/l2_JadenCase 문자열 만들기_solved.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/Level2/l2_N개의 최소공배수_retry.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Level2/l2_N개의 최소공배수_solved.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/Level2/l2_가장 큰 정사각형 찾기_retry.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Level2/l2_가장 큰 정사각형 찾기_retry.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/programmers/Level2/l2_땅따먹기_retry.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Level2/l2_땅따먹기_retry.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/Level2/l2_올바른 괄호_retry.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Level2/l2_올바른 괄호_timeover.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/Level2/l2_행렬의 곱셈.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Level2/l2_행렬의 곱셈_solved.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/Level2/l2_올바른 괄호_timeover.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Level2/l2_올바른 괄호_timeover.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="l2_JadenCase 문자열 만들기_retry.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_JadenCase 문자열 만들기_retry.py">
+      <file leaf-file-name="l2_JadenCase 문자열 만들기_solved.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_JadenCase 문자열 만들기_solved.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+            <state relative-caret-position="220">
+              <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -41,26 +39,26 @@
       <file leaf-file-name="l2_올바른 괄호_timeover.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_올바른 괄호_timeover.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="46" column="18" lean-forward="true" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+            <state relative-caret-position="220">
+              <caret line="33" column="7" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="08.py" pinned="false" current-in-tab="false">
-        <entry file="file://Z:/1_Working/0_자료/내부매뉴얼/Bixby2.0/Group/G4/Contact/08.py">
+      <file leaf-file-name="l2_최댓값과 최솟값_solved.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_최댓값과 최솟값_solved.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="35" />
+            <state relative-caret-position="182">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="l2_땅따먹기_retry.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="l2_땅따먹기_retry.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_땅따먹기_retry.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="34" column="3" lean-forward="true" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
+            <state relative-caret-position="144">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
             </state>
           </provider>
         </entry>
@@ -83,11 +81,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="l2_N개의 최소공배수_retry.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_N개의 최소공배수_retry.py">
+      <file leaf-file-name="l2_N개의 최소공배수_solved.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_N개의 최소공배수_solved.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="334">
+              <caret line="44" column="26" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -95,17 +93,17 @@
       <file leaf-file-name="l2_다음 큰 숫자_solved.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_다음 큰 숫자_solved.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
+            <state relative-caret-position="19">
               <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="l2_가장 큰 정사각형 찾기_retry.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="l2_가장 큰 정사각형 찾기_retry.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_가장 큰 정사각형 찾기_retry.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+            <state relative-caret-position="87">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
             </state>
           </provider>
         </entry>
@@ -125,8 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/programmers/Level1/l1_두 정수 사이의 합.py" />
-        <option value="$PROJECT_DIR$/programmers/Level1/l1_나누어 떨어지는 숫자 배열.py" />
         <option value="$PROJECT_DIR$/programmers/Level1/l1_같은 숫자는 싫어.py" />
         <option value="$PROJECT_DIR$/programmers/Level1/l1_가운데 글자 가져오기.py" />
         <option value="$PROJECT_DIR$/programmers/Level1/l1_2016년.py" />
@@ -164,18 +160,20 @@
         <option value="$PROJECT_DIR$/programmers/Level2/l2_숫자의 표현_retry.py" />
         <option value="$PROJECT_DIR$/programmers/Level2/l2_다음 큰 숫자.py" />
         <option value="$PROJECT_DIR$/programmers/Level2/l2_올바른 괄호.py" />
-        <option value="$PROJECT_DIR$/programmers/Level2/l2_JadenCase 문자열 만들기_retry.py" />
         <option value="$PROJECT_DIR$/programmers/Level2/l2_N개의 최소공배수.py" />
         <option value="$PROJECT_DIR$/programmers/Level2/l2_땅따먹기.py" />
         <option value="$PROJECT_DIR$/programmers/Level2/l2_행렬의 곱셈.py" />
-        <option value="$PROJECT_DIR$/programmers/Level2/l2_땅따먹기_retry.py" />
         <option value="$PROJECT_DIR$/programmers/Level2/l2_124 나라의 숫자_solved.py" />
         <option value="$PROJECT_DIR$/programmers/Level2/l2_올바른 괄호_retry.py" />
-        <option value="$PROJECT_DIR$/programmers/Level2/l2_N개의 최소공배수_retry.py" />
         <option value="$PROJECT_DIR$/programmers/Level2/l2_행렬의 곱셈_retry.py" />
         <option value="$PROJECT_DIR$/programmers/Level2/l2_행렬의 곱셈_runtime.py" />
         <option value="Z:/1_Working/0_자료/내부매뉴얼/Bixby2.0/Group/G4/Contact/08.py" />
         <option value="$PROJECT_DIR$/programmers/Level2/l2_가장 큰 정사각형 찾기.py" />
+        <option value="$PROJECT_DIR$/programmers/Level2/l2_JadenCase 문자열 만들기_retry.py" />
+        <option value="$PROJECT_DIR$/programmers/Level2/l2_가장 큰 정사각형 찾기_retry.py" />
+        <option value="$PROJECT_DIR$/programmers/Level2/l2_올바른 괄호_timeover.py" />
+        <option value="$PROJECT_DIR$/programmers/Level2/l2_땅따먹기_retry.py" />
+        <option value="$PROJECT_DIR$/programmers/Level2/l2_N개의 최소공배수_retry.py" />
       </list>
     </option>
   </component>
@@ -239,25 +237,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.l2_가장 큰 정사각형 찾기">
-    <configuration name="08" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="Z:/1_Working/0_자료/내부매뉴얼/Bixby2.0/Group/G4/Contact" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="Z:/1_Working/0_자료/내부매뉴얼/Bixby2.0/Group/G4/Contact/08.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.l2_N개의 최소공배수_retry">
     <configuration name="l1_문자열을 정수로 바꾸기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -312,6 +292,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="l2_가장 큰 정사각형 찾기_retry" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/Level2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Level2/l2_가장 큰 정사각형 찾기_retry.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="l2_행렬의 곱셈" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -330,7 +328,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="l2_행렬의 곱셈_retry" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="l2_올바른 괄호_timeover" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -342,7 +340,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Desktop\myown\algorithm\programmers\Level2\l2_행렬의 곱셈_solved.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Level2/l2_올바른 괄호_timeover.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -366,24 +364,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="l2_124 나라의 숫자_solved" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/Level2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Level2/l2_124 나라의 숫자_solved.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="l2_JadenCase 문자열 만들기_retry" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -396,7 +376,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Level2/l2_JadenCase 문자열 만들기_retry.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Desktop\myown\algorithm\programmers\Level2\l2_JadenCase 문자열 만들기_solved.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -414,26 +394,26 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Level2/l2_N개의 최소공배수_retry.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Desktop\myown\algorithm\programmers\Level2\l2_N개의 최소공배수_solved.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.l2_124 나라의 숫자_solved" />
       <item itemvalue="Python.l2_N개의 최소공배수_retry" />
-      <item itemvalue="Python.l2_행렬의 곱셈_retry" />
-      <item itemvalue="Python.08" />
       <item itemvalue="Python.l2_가장 큰 정사각형 찾기" />
+      <item itemvalue="Python.l2_JadenCase 문자열 만들기_retry" />
+      <item itemvalue="Python.l2_가장 큰 정사각형 찾기_retry" />
+      <item itemvalue="Python.l2_올바른 괄호_timeover" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.l2_가장 큰 정사각형 찾기" />
-        <item itemvalue="Python.08" />
-        <item itemvalue="Python.l2_행렬의 곱셈_retry" />
         <item itemvalue="Python.l2_N개의 최소공배수_retry" />
-        <item itemvalue="Python.l2_124 나라의 숫자_solved" />
+        <item itemvalue="Python.l2_올바른 괄호_timeover" />
+        <item itemvalue="Python.l2_가장 큰 정사각형 찾기_retry" />
+        <item itemvalue="Python.l2_JadenCase 문자열 만들기_retry" />
+        <item itemvalue="Python.l2_가장 큰 정사각형 찾기" />
       </list>
     </recent_temporary>
   </component>
@@ -452,6 +432,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20982143" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -529,19 +510,9 @@
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/programmers/Level2/l2_가장 큰 정사각형 찾기_retry.py</url>
-          <line>87</line>
-          <option name="timeStamp" value="29" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/programmers/Level2/l2_피보나치 수_solved.py</url>
           <line>30</line>
           <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/programmers/Level2/l2_JadenCase 문자열 만들기_retry.py</url>
-          <line>26</line>
-          <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/programmers/Level2/l2_숫자의 표현_solved.py</url>
@@ -559,8 +530,8 @@
           <option name="timeStamp" value="46" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/programmers/Level2/l2_N개의 최소공배수_retry.py</url>
-          <line>22</line>
+          <url>file://$PROJECT_DIR$/programmers/Level2/l2_N개의 최소공배수_solved.py</url>
+          <line>18</line>
           <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -569,17 +540,12 @@
           <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/programmers/Level2/l2_가장 큰 정사각형 찾기_retry.py</url>
-          <line>74</line>
-          <option name="timeStamp" value="52" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/programmers/Level2/l2_가장 큰 정사각형 찾기_retry.py</url>
-          <line>69</line>
-          <option name="timeStamp" value="53" />
+          <url>file://$PROJECT_DIR$/programmers/Level2/l2_JadenCase 문자열 만들기_solved.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="54" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="54" />
+      <option name="time" value="55" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -845,13 +811,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_최댓값과 최솟값_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_최솟값 만들기_solved.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="798">
@@ -863,13 +822,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1083">
           <caret line="57" column="32" selection-start-line="57" selection-start-column="12" selection-end-line="57" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_다음 큰 숫자_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -901,38 +853,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_올바른 괄호_timeover.py">
+    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_다음 큰 숫자_solved.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="46" column="18" lean-forward="true" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+        <state relative-caret-position="19">
+          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_가장 큰 정사각형 찾기_retry.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_N개의 최소공배수_retry.py">
+    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_최댓값과 최솟값_solved.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_JadenCase 문자열 만들기_retry.py">
+    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_JadenCase 문자열 만들기_solved.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        <state relative-caret-position="220">
+          <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_N개의 최소공배수_solved.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="44" column="26" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_땅따먹기_retry.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="34" column="3" lean-forward="true" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
+        <state relative-caret-position="144">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_올바른 괄호_timeover.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="33" column="7" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_가장 큰 정사각형 찾기_retry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
     </entry>

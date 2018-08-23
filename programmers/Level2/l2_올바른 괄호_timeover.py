@@ -31,25 +31,6 @@ s	answer
 s = '(())()'
 
 def solution(s):
-    bracket_list = [i for i in s]
-    bool_list = [False for j in range(len(bracket_list))]
-
-    if bracket_list[0] == ')' or bracket_list[-1] == '(': return False
-
-    for m in range(len(bracket_list)):
-        if bracket_list[m] == '(' and m != (len(bracket_list) - 1):
-            for n in range(m + 1, len(bracket_list)):
-                if bracket_list[n] == ')' and bool_list[n] != True:
-                    bool_list[m] = True
-                    bool_list[n] = True
-                    break
-
-    bool_count = 0
-
-    for j in bool_list:
-        if j == True: bool_count += 1
-
-    if bool_count == len(bracket_list): return True
-    else : return False
+   pass
 
 print(solution(s))

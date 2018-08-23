@@ -38,7 +38,7 @@ land = [[1,3,5,4],[2,1,9,8],[1,2,3,100]]
 
 def solution(land):
 
-    return result
+    pass
 #5 + 7 + 5 + 7 + 8
 
 

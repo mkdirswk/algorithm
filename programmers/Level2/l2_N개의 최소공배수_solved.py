@@ -17,18 +17,29 @@ arr	result
 [1,2,3]	6
 """
 import math
-arr = [2,7,14]
+
+def gcd(a, b):
+  while (b != 0):
+    temp = a % b
+    a = b
+    b = temp
+  return abs(a)
+
+def lcm(a, b):
+  gcd_value = gcd(a, b)
+  if (gcd_value == 0): return 0
+  return abs( (a * b) / gcd_value )
+
+#arr = [2,7,4]
+
 def solution(arr):
-
-    current_gcd = max(arr)
-    multi_all = 1
-    for m in arr:
-        current_gcd = math.gcd(m, current_gcd)
-        multi_all *= m
-        multi_all /= current_gcd
-
-
-    return (int)(multi_all)  # / (current_gcd ** (len(arr) - 1))
+    current_gcd = 1
+    for i in arr:
+        current_gcd = lcm(current_gcd,i)
+    return int(current_gcd)
 
 
 print(solution(arr))
+
+
+#from fractions import gcd
