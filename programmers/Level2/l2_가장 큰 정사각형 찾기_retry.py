@@ -42,10 +42,33 @@ board	answer
 | 1 | 1 | 1 | 1 |
 로 가장 큰 정사각형의 넓이는 4가 되므로 4를 return합니다.
 """
-board = [[0,0,1,1],[1,1,1,1]]
+board = [[1,1,0,1],[1,1,0,1]]
+temp_s = '111000111'
 
 
-print(board)
+def solution(board):
+
+    col = len(board)
+    row = len(board[0])
+    if col == 0 or row == 0:
+        return 0
+
+    for i in range(col - 1):
+        for j in range(row - 1):
+            if board[i][j + 1] >= 1 and board[i + 1][j] >= 1 and board[i + 1][j + 1] >= 1:
+                board[i + 1][j + 1] = board[i][j] + 1
+    max_num = 0
+    for m in range(col):
+        for n in range(row):
+            if board[m][n] > max_num:
+                max_num = board[m][n]
+
+    if max_num == 0:
+        return 0
+    return max_num ** 2#board
+
+
+print(solution(board))
 
 
 
