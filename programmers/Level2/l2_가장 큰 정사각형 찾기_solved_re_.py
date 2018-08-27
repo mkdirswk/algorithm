@@ -42,8 +42,7 @@ board	answer
 | 1 | 1 | 1 | 1 |
 로 가장 큰 정사각형의 넓이는 4가 되므로 4를 return합니다.
 """
-board = [[1,1,0,1],[1,1,0,1]]
-temp_s = '111000111'
+board = [[0,0],[0,0]]
 
 
 def solution(board):
@@ -53,10 +52,10 @@ def solution(board):
     if col == 0 or row == 0:
         return 0
 
-    for i in range(col - 1):
-        for j in range(row - 1):
-            if board[i][j + 1] >= 1 and board[i + 1][j] >= 1 and board[i + 1][j + 1] >= 1:
-                board[i + 1][j + 1] = board[i][j] + 1
+    for i in range(1, col):
+        for j in range(1, row):
+            if board[i][j - 1] >= 1 and board[i - 1][j] >= 1 and board[i - 1][j - 1] >= 1:
+                board[i][j] = min(board[i][j - 1],board[i - 1][j],board[i - 1][j - 1]) + 1
     max_num = 0
     for m in range(col):
         for n in range(row):
@@ -65,8 +64,38 @@ def solution(board):
 
     if max_num == 0:
         return 0
-    return max_num ** 2#board
+    return max_num ** 2
 
+
+"""
+정답
+def solution(board):
+    # check whether board is consist of only zeros
+    _s = 0
+    for i in range(len(board)):
+        _s += sum(board[i][:])
+    if _s == 0:
+        return 0
+    
+    _s = 0  # initialize _s to 0
+    
+    table = [[x for x in sub] for sub in board]
+    for x in range(1,len(table)):
+        for y in range(1, len(table[x])):
+            if table[x][y] == 0:
+                continue
+            else:
+                _min = min([table[x][y-1], table[x-1][y], table[x-1][y-1]])
+                table[x][y] = _min + 1
+                if _s < table[x][y]:
+                    _s = table[x][y]
+                    
+    # if board looks like identity matrix _s would be 0, but max square would be 1.
+    if _s == 0:
+        return 1
+    else:
+        return _s ** 2
+"""
 
 print(solution(board))
 
