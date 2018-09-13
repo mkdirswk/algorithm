@@ -34,12 +34,25 @@ land	answer
 문제의 예시와 같습니다.
 """
 
-land = [[1,3,5,4],[2,1,9,8],[1,2,3,100]]
+
+land = [[1,3,5,4],[2,1,100,8],[1,2,3,9]]
+
 
 def solution(land):
+    col = len(land)
 
-    pass
-#5 + 7 + 5 + 7 + 8
+    for i in range(col):
+        if i != 0 and i != (col):
+            land[i][0] += max(land[i - 1][1], land[i - 1][2], land[i - 1][3])
+            land[i][1] += max(land[i - 1][0], land[i - 1][2], land[i - 1][3])
+            land[i][2] += max(land[i - 1][1], land[i - 1][0], land[i - 1][3])
+            land[i][3] += max(land[i - 1][1], land[i - 1][2], land[i - 1][0])
+        if i == col - 1:
+            break
+
+    return max(land[col - 1])
+
+
 
 
 
