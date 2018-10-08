@@ -22,6 +22,26 @@ Try hello world
 """
 s = 'adklKs   jdkjlskljs lznzDKAD     '
 
+
 def solution(s):
-    pass
+    string_count = 0
+    all_count = 0
+    new_str = ''
+    for m in s:
+        if m == ' ':
+            string_count = 0
+        elif m != ' ':
+            string_count += 1
+
+        if string_count != 0 and string_count % 2 == 1:
+            new_str += s[all_count].lower()
+        elif string_count != 0 and string_count % 2 == 0:
+            new_str += s[all_count].upper()
+        else: new_str += m
+
+        all_count += 1
+
+    return new_str
+
+#solution(s)
 
