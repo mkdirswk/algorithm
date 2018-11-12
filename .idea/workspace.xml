@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b243671-78c9-4f45-a746-da82bd190bf2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers/Level1/l1_Expressed as N.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Python/Level1/S_K-Number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/Level1/l1_Create Strange Characters.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Level1/l1_Create Strange Characters_servertry.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/Python/Level1/l1_ Make a natural number flip array_solved.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Python/Level1/S_Make a natural number flip array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/Python/Level1/l1_A player who has not finished_solved.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Python/Level1/S_A player who has not finished_solved.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/function organization.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,92 +18,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="l2_올바른 괄호_timeover.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_올바른 괄호_timeover.py">
+      <file leaf-file-name="S_Make a natural number flip array.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/Python/Level1/S_Make a natural number flip array.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+            <state relative-caret-position="152">
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="l2_숫자의 표현_solved.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_숫자의 표현_solved.py">
+      <file leaf-file-name="S_A player who has not finished_solved.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/Python/Level1/S_A player who has not finished_solved.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="S_K-Number.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/programmers/Python/Level1/S_K-Number.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="912">
-              <caret line="48" selection-start-line="48" selection-end-line="48" />
+            <state relative-caret-position="285">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="l1_A player who has not finished_solved.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_A player who has not finished_solved.py">
+      <file leaf-file-name="Python function organization.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/Python function organization.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="855">
-              <caret line="45" selection-start-line="45" selection-end-line="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="l1_Mock test_solved.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_Mock test_solved.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="l1_GymSuit_solved.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_GymSuit_solved.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1425">
-              <caret line="75" column="37" selection-start-line="75" selection-start-column="37" selection-end-line="75" selection-end-column="37" />
+            <state relative-caret-position="19">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="l1_Create Strange Characters_servertry.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_Create Strange Characters_servertry.py">
+        <entry file="file://$PROJECT_DIR$/programmers/Python/Level1/l1_Create Strange Characters_servertry.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="l1_Expressed as N.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_Expressed as N.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="676">
-              <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="l2_최댓값과 최솟값_solved.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_최댓값과 최솟값_solved.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="l2_땅따먹기_solved.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_땅따먹기_solved.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="988">
-              <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="l2_가장 큰 정사각형 찾기_solved_re_.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_가장 큰 정사각형 찾기_solved_re_.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="950">
-              <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+            <state relative-caret-position="570">
+              <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -120,7 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/programmers/Level1/l1_문자열 다루기 기본.py" />
         <option value="$PROJECT_DIR$/programmers/Level1/l1_문자열을 정수로 바꾸기.py" />
         <option value="$PROJECT_DIR$/programmers/Level1/l1_시저 암호.py" />
         <option value="$PROJECT_DIR$/programmers/Level1/l1_자릿수 더하기.py" />
@@ -171,10 +124,11 @@
         <option value="$PROJECT_DIR$/programmers/Level1/l1_GymSuit.py" />
         <option value="$PROJECT_DIR$/programmers/Level1/l1_Create Strange Characters.py" />
         <option value="$PROJECT_DIR$/programmers/Level1/l1_Expressed as N.py" />
+        <option value="$PROJECT_DIR$/programmers/Python/Level1/l1_K-Number.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="780" />
@@ -205,12 +159,20 @@
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="programmers" type="462c0819:PsiDirectoryNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="programmers" type="462c0819:PsiDirectoryNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
               <item name="Level1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="programmers" type="462c0819:PsiDirectoryNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
               <item name="Level2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -240,7 +202,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.l1_Expressed as N">
+  <component name="RunManager" selected="Python.l1_K-Number">
     <configuration name="l1_A player who has not finished" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -313,6 +275,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="l1_K-Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/Python/Level1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Desktop\myown\algorithm\programmers\Python\Level1\S_K-Number.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="l1_Mock test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -349,34 +329,16 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="l2_JadenCase 문자열 만들기_retry" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/Level2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Desktop\myown\algorithm\programmers\Level2\l2_JadenCase 문자열 만들기_solved.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list>
       <item itemvalue="Python.l1_A player who has not finished" />
       <item itemvalue="Python.l1_Mock test" />
       <item itemvalue="Python.l1_GymSuit" />
       <item itemvalue="Python.l1_Create Strange Characters" />
-      <item itemvalue="Python.l1_Expressed as N" />
+      <item itemvalue="Python.l1_K-Number" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.l1_Expressed as N" />
+        <item itemvalue="Python.l1_K-Number" />
         <item itemvalue="Python.l1_Create Strange Characters" />
         <item itemvalue="Python.l1_GymSuit" />
         <item itemvalue="Python.l1_Mock test" />
@@ -401,12 +363,12 @@
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25223213" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30877978" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31493506" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31493506" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -517,7 +479,7 @@
           <option name="timeStamp" value="60" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/programmers/Level1/l1_A player who has not finished_solved.py</url>
+          <url />
           <line>33</line>
           <option name="timeStamp" value="62" />
         </line-breakpoint>
@@ -526,212 +488,32 @@
           <line>51</line>
           <option name="timeStamp" value="67" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/programmers/Level1/l1_Expressed as N.py</url>
-          <line>44</line>
-          <option name="timeStamp" value="70" />
-        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="71" />
+      <option name="time" value="73" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_Replace string with integer_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_Create Strange Characters_servertry.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_Placing strings in descending order_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="77" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_Sum of two integers_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11">
-          <caret line="21" column="11" lean-forward="true" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_Number of p and y in string_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="45" column="3" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_An array of dividing numbers_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="43" column="3" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_do not like the same number_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="35" column="3" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_Handling Strings Basic_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_Clap clap clap clap clap clap_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_Replace string with integer_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_Caesar password_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_Sum of divisors_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_Add digits_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/function organization.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="18" column="73" lean-forward="true" selection-start-line="18" selection-end-line="18" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_ Make a natural number flip array_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_정수 내림차순으로 배치하기_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_정수 제곱근 판별_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_n numbers spaced by x_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_짝수와 홀수_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="18" column="22" selection-start-line="16" selection-end-line="18" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_하샤드 수_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_평균 구하기_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_콜라츠 추측_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="33" column="14" lean-forward="true" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_제일 작은 수 제거하기_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_행렬의 덧셈_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_Sort strings as you like_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="36" column="61" lean-forward="true" selection-start-line="36" selection-start-column="61" selection-end-line="36" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_핸드폰 번호 가리기_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_직사각형 별 찍기_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="32" column="27" selection-start-line="31" selection-end-line="32" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_Find a decimal number_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1159">
-          <caret line="61" column="30" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_Handling Strings Basic_solved.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_Clap clap clap clap clap clap_solved.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_Replace string with integer_solved.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_Caesar password_solved.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_Sum of divisors_solved.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_Add digits_solved.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/function organization.txt" />
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_ Make a natural number flip array_solved.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_정수 내림차순으로 배치하기_solved.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_정수 제곱근 판별_solved.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_n numbers spaced by x_solved.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_짝수와 홀수_solved.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_하샤드 수_solved.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_평균 구하기_solved.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_콜라츠 추측_solved.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_제일 작은 수 제거하기_solved.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_행렬의 덧셈_solved.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_Sort strings as you like_solved.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_핸드폰 번호 가리기_solved.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_직사각형 별 찍기_solved.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_Find a decimal number_solved.py" />
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -739,151 +521,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_피보나치 수_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_최솟값 만들기_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_최대공약수와 최소공배수_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_124 나라의 숫자_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="41" column="27" lean-forward="true" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_피보나치 수_solved.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_최솟값 만들기_solved.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_최대공약수와 최소공배수_solved.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_124 나라의 숫자_solved.py" />
     <entry file="file://Z:/1_Working/0_자료/내부매뉴얼/Bixby2.0/Group/G4/Contact/08.py" />
-    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_다음 큰 숫자_solved.py">
+    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_다음 큰 숫자_solved.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_JadenCase 문자열 만들기_solved.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_N개의 최소공배수_solved.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_행렬의 곱셈_solved.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_Year2016_solved.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_Import middle letters_solved.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_Finding Kim Seobang in Seoul_solved.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_최댓값과 최솟값_solved.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_가장 큰 정사각형 찾기_solved_re_.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_땅따먹기_solved.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_올바른 괄호_timeover.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_숫자의 표현_solved.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_A player who has not finished_solved.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_Mock test_solved.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_GymSuit_solved.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_Expressed as N.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_Create Strange Characters_servertry.py" />
+    <entry file="file://$PROJECT_DIR$/programmers/Python/Level1/S_Make a natural number flip array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Python/Level1/S_A player who has not finished_solved.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Python function organization.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
-          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_JadenCase 문자열 만들기_solved.py">
+    <entry file="file://$PROJECT_DIR$/programmers/Python/Level1/l1_Clap clap clap clap clap clap_solved.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+        <state relative-caret-position="19">
+          <caret line="1" column="65" lean-forward="true" selection-start-line="1" selection-start-column="65" selection-end-line="1" selection-end-column="65" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_N개의 최소공배수_solved.py">
+    <entry file="file://$PROJECT_DIR$/programmers/Python/Level1/l1_do not like the same number_solved.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="44" column="26" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
+        <state relative-caret-position="134">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_행렬의 곱셈_solved.py">
+    <entry file="file://$PROJECT_DIR$/programmers/Python/Level1/l1_Create Strange Characters_servertry.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="570">
+          <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_Year2016_solved.py">
+    <entry file="file://$PROJECT_DIR$/programmers/Python/Level1/S_K-Number.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_Import middle letters_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_Finding Kim Seobang in Seoul_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_최댓값과 최솟값_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_가장 큰 정사각형 찾기_solved_re_.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
-          <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_땅따먹기_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="988">
-          <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_올바른 괄호_timeover.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_숫자의 표현_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_A player who has not finished_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_Mock test_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_GymSuit_solved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1425">
-          <caret line="75" column="37" selection-start-line="75" selection-start-column="37" selection-end-line="75" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_Create Strange Characters_servertry.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_Expressed as N.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
-          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+        <state relative-caret-position="285">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
         </state>
       </provider>
     </entry>
