@@ -36,48 +36,28 @@ N  number return
 11 = 22 / 2와 같이 2를 3번만 사용하여 표현할 수 있습니다.
 
 """
-import random
 
-N = 9
+
+N = 11
 number = 32000
 
-def random_string():
-    pmmd = random.randrange(1,5)
-
-    if pmmd == 1: return '+'
-    elif pmmd == 2: return '-'
-    elif pmmd == 3: return '*'
-    elif pmmd == 4: return '/'
-    return pmmd
-
-
-def all_poss(N,number):
-    poss_first_list = []
+def convert(n, base):
+    T = "0123456789ABCDEF"
+    q, r = divmod(n, base)
+    if q == 0:
+        return T[r]
+    else:
+        return convert(q, base) + T[r]
 
 
-    temp_str = str(N)
-    for i in range(len(str(number))):
-        poss_first_list.append(temp_str)
-        temp_str += str(N)
+def make_possible_arr(N, number):
+    temp_arr = [9, 99, 999, 9999, 99999, 1, 11, 111, 1111, 11111]
 
-    poss_second_list = poss_first_list
-    poss_final_list = []
+def solution(N,number):
+    return convert(N,2)
 
-    for m in range(len(poss_first_list)):
-        for n in range(len(poss_second_list)):
-            poss_final_list.append(int(poss_first_list[m]) + int(poss_second_list[n]))
-            if int(poss_first_list[m]) - int(poss_second_list[n]) > 0: poss_final_list.append(int(poss_first_list[m]) - int(poss_second_list[n]))
-            poss_final_list.append(int(poss_first_list[m]) * int(poss_second_list[n]))
-            if int(poss_first_list[m]) / int(poss_second_list[n] != 0): poss_final_list.append(int(int(poss_first_list[m]) / int(poss_second_list[n])))
-
-    poss_final_list = set(poss_final_list)
-    poss_final_list = list(poss_final_list)
-    poss_final_list.remove(0)
-    poss_final_list.sort()
-
-    return poss_final_list
-
-def solution(N, number):
-    #return random_string()
-    return all_poss(N,number)
 print(solution(N,number))
+
+# def solution(N, number):
+#    pass
+# print(solution(N,number))
