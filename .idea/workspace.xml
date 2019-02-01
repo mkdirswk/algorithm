@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b243671-78c9-4f45-a746-da82bd190bf2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers/Python/kakao2018/Block Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Python/Level2/Printer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Python/Level2/S_Truck on the bridge.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/Python/kakao2018/Block Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Python/kakao2018/Block Game.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,28 +16,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/Python function organization.txt">
+        <entry file="file://$PROJECT_DIR$/programmers/Python/kakao2018/Block Game.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+            <state relative-caret-position="304">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/Python/Level1/l1_Expressed as N.py">
+        <entry file="file://$PROJECT_DIR$/programmers/Python/Level2/S_Truck on the bridge.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="418">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/programmers/Python/kakao2018/Block Game.py">
+        <entry file="file://$PROJECT_DIR$/programmers/Python/Level2/Printer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            <state relative-caret-position="396">
+              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
             </state>
           </provider>
         </entry>
@@ -98,8 +100,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/programmers/Level1/l1_자릿수 더하기.py" />
-        <option value="$PROJECT_DIR$/programmers/Level1/l1_소수 찾기.py" />
         <option value="$PROJECT_DIR$/programmers/Level1/l1_약수의 합.py" />
         <option value="$PROJECT_DIR$/programmers/Level1/l1_자연수 뒤집어 배열로 만들기.py" />
         <option value="$PROJECT_DIR$/programmers/Level1/l1_정수 내림차순으로 배치하기.py" />
@@ -149,12 +149,14 @@
         <option value="$PROJECT_DIR$/programmers/Python/Level1/l1_K-Number.py" />
         <option value="$PROJECT_DIR$/programmers/Python/Level1/l1_Expressed as N.py" />
         <option value="$PROJECT_DIR$/programmers/Python/kakao2018/Block Game.py" />
+        <option value="$PROJECT_DIR$/programmers/Python/Level2/l2_Truck on the bridge.py" />
+        <option value="$PROJECT_DIR$/programmers/Python/Level2/Printer.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="832" />
-    <option name="y" value="55" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
     <option name="width" value="780" />
     <option name="height" value="730" />
   </component>
@@ -166,7 +168,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,10 +193,18 @@
               <item name="Python" type="462c0819:PsiDirectoryNode" />
               <item name="kakao2018" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="programmers" type="462c0819:PsiDirectoryNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Level2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -219,7 +228,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Block Game">
+  <component name="RunManager" selected="Python.Printer">
     <configuration name="Block Game" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -241,7 +250,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="l1_Create Strange Characters" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Printer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -249,11 +258,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/Level1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/Python/Level2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Desktop\myown\algorithm\programmers\Level1\l1_Create Strange Characters_servertry.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\LBuser\Desktop\myOwn\algorithm\programmers\Python\Level2\l2_Printer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -283,27 +292,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="l1_GymSuit" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/Level1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Desktop\myown\algorithm\programmers\Level1\l1_GymSuit_solved.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="l1_K-Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -325,20 +313,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="l2_Truck on the bridge" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/Python/Level2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\LBuser\Desktop\myOwn\algorithm\programmers\Python\Level2\S_Truck on the bridge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.l1_GymSuit" />
-      <item itemvalue="Python.l1_Create Strange Characters" />
       <item itemvalue="Python.l1_K-Number" />
       <item itemvalue="Python.l1_Expressed as N (1)" />
       <item itemvalue="Python.Block Game" />
+      <item itemvalue="Python.l2_Truck on the bridge" />
+      <item itemvalue="Python.Printer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Printer" />
+        <item itemvalue="Python.l2_Truck on the bridge" />
         <item itemvalue="Python.Block Game" />
         <item itemvalue="Python.l1_Expressed as N (1)" />
         <item itemvalue="Python.l1_K-Number" />
-        <item itemvalue="Python.l1_Create Strange Characters" />
-        <item itemvalue="Python.l1_GymSuit" />
       </list>
     </recent_temporary>
   </component>
@@ -359,13 +368,13 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.019828156" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19299406" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3134752" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.45531914" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32340425" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -482,16 +491,19 @@
           <option name="timeStamp" value="67" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/programmers/Python/kakao2018/Block Game.py</url>
-          <line>34</line>
-          <option name="timeStamp" value="71" />
+          <url>file://$PROJECT_DIR$/programmers/Python/Level2/S_Truck on the bridge.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/programmers/Python/Level2/Printer.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="69" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_정수 내림차순으로 배치하기_solved.py" />
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_정수 제곱근 판별_solved.py" />
     <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_n numbers spaced by x_solved.py" />
     <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_짝수와 홀수_solved.py" />
     <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_하샤드 수_solved.py" />
@@ -558,6 +570,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Python/Level1/l1_Expressed as N.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Python/kakao2018/Block Game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Python/Level2/S_Truck on the bridge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/programmers/Python/Level2/S_Number of 124 country.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -587,17 +620,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Python/Level1/l1_Expressed as N.py">
+    <entry file="file://$PROJECT_DIR$/programmers/Python/Level2/Printer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Python/kakao2018/Block Game.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="396">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
         </state>
       </provider>
     </entry>
