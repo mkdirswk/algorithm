@@ -37,7 +37,8 @@ def solution(s):
             new_str += s[all_count].lower()
         elif string_count != 0 and string_count % 2 == 0:
             new_str += s[all_count].upper()
-        else: new_str += m
+        else:
+            new_str += m
 
         all_count += 1
 
