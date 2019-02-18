@@ -1,14 +1,18 @@
-board = [[0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         [0, 0, 8, 7, 0, 0, 0, 0, 0, 0],
-         [0, 0, 8, 7, 0, 0, 0, 0, 0, 0],
-         [0, 8, 8, 7, 7, 0, 4, 0, 0, 6],
-         [0, 9, 9, 0, 0, 0, 4, 6, 6, 6],
-         [0, 0, 9, 2, 3, 0, 4, 4, 0, 0],
-         [0, 0, 9, 2, 3, 0, 0, 0, 0, 5],
-         [1, 0, 2, 2, 3, 3, 0, 0, 0, 5],
-         [1, 1, 1, 0, 0, 0, 0, 0, 5, 5]]
+# board = [[0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+#          [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+#          [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+#          [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+#          [0, 0, 0, 0, 0, 1, 0, 0, 0, 0],
+#          [0, 0, 0, 0, 1, 1, 1, 0, 0, 0],
+#          [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+#          [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+#          [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+#          [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]
 
+board = [[0, 0, 0, 3],
+         [0, 0, 3, 3],
+         [0, 0, 1, 3],
+         [0, 1, 1, 1]]
 #8 7 3 4 6 5
 
 def solution(board):
@@ -26,7 +30,7 @@ def solution(board):
                             for m in range(i + 1):
                                 temp_a_check += board[m][j + 1]
                                 temp_b_check += board[m][j + 2]
-                            if temp_a_check == 0 and temp_a_check == 0:
+                            if temp_a_check == 0 and temp_b_check == 0:
                                 board[i][j] = 0
                                 board[i + 1][j] = 0
                                 board[i + 1][j + 1] = 0
@@ -39,7 +43,7 @@ def solution(board):
                             for m in range(i):
                                 temp_a_check += board[m][j]
                                 temp_b_check += board[m][j + 1]
-                            if temp_a_check == 0 and temp_a_check == 0:
+                            if temp_a_check == 0 and temp_b_check == 0:
                                 board[i][j] = 0
                                 board[i][j + 1] = 0
                                 board[i][j + 2] = 0
@@ -51,7 +55,7 @@ def solution(board):
                             for m in range(i):
                                 temp_a_check += board[m][j]
                                 temp_b_check += board[m][j + 2]
-                            if temp_a_check == 0 and temp_a_check == 0:
+                            if temp_a_check == 0 and temp_b_check == 0:
                                 board[i][j] = 0
                                 board[i][j + 1] = 0
                                 board[i - 1][j + 1] = 0

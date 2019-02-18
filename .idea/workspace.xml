@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b243671-78c9-4f45-a746-da82bd190bf2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers/Python/Level2/l2_IronStick.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/Python/Level2/tower.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/Python/Winter2018/S_Visit length.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/Python/Winter2018/Skill Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Python/Level2/l2_MarketPrice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Python/kakao2018/File Sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Python/kakao2018/Find Road Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/Python/Level1/l1_Create Strange Characters_servertry.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Python/Level1/l1_Create Strange Characters_servertry.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/Python/kakao2018/Block Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Python/kakao2018/Block Game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/easy-install.pth" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easy-install.pth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/Python/kakao2018/Block Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Python/kakao2018/S_Block Game.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,61 +18,66 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/Python/Winter2018/S_Visit length.py">
+        <entry file="file://$PROJECT_DIR$/programmers/Python/kakao2018/S_Block Game.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="1805">
+              <caret line="95" selection-start-line="95" selection-end-line="95" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/Python/Winter2018/Skill Tree.py">
+        <entry file="file://$PROJECT_DIR$/programmers/Python/kakao2018/Find Road Game.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/Python/kakao2018/File Sort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="1273">
+              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/Python/kakao2018/Block Game.py">
+        <entry file="file://$PROJECT_DIR$/programmers/Python/Level2/l2_MarketPrice.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="285">
+              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/programmers/Python/Level2/TimeOver_Scovile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
-                <element signature="e#788#1322#0" />
-                <element signature="e#1439#1961#0" />
-                <element signature="e#1863#2339#0" />
-                <element signature="e#3166#3638#0" />
-                <element signature="e#3886#4358#0" />
+                <element signature="e#64#77#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/Python/Level2/S_N least common multiple.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="779">
-              <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/Python/Level2/R_Find the largest square.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/Python/Level2/S_Next big number.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/Python/Level2/S_Landing.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/programmers/Python function organization.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -85,17 +88,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/programmers/Python/Level1/l1_Create Strange Characters_servertry.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="779">
               <caret line="41" selection-start-line="41" selection-end-line="41" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/programmers/Python/Level2/tower.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+            <state relative-caret-position="190">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -115,11 +118,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/programmers/Level1/l1_평균 구하기.py" />
-        <option value="$PROJECT_DIR$/programmers/Level1/l1_짝수와 홀수.py" />
-        <option value="$PROJECT_DIR$/programmers/Level1/l1_하샤드 수.py" />
-        <option value="$PROJECT_DIR$/programmers/Level1/l1_콜라츠 추측.py" />
-        <option value="$PROJECT_DIR$/programmers/Level1/l1_제일 작은 수 제거하기.py" />
         <option value="$PROJECT_DIR$/programmers/Level1/l1_핸드폰 번호 가리기.py" />
         <option value="$PROJECT_DIR$/programmers/Level1/l1_행렬의 덧셈.py" />
         <option value="$PROJECT_DIR$/programmers/Level1/l1_제일 작은 수 제거하기_solved.py" />
@@ -163,13 +161,18 @@
         <option value="$PROJECT_DIR$/programmers/Python/Level2/l2_IronStick.py" />
         <option value="$PROJECT_DIR$/programmers/Python/Winter2018/Visit length.py" />
         <option value="$PROJECT_DIR$/programmers/Python/Winter2018/Skill Tree.py" />
-        <option value="$PROJECT_DIR$/programmers/Python/kakao2018/Block Game.py" />
         <option value="$PROJECT_DIR$/programmers/Python/Level1/l1_Create Strange Characters_servertry.py" />
         <option value="$PROJECT_DIR$/programmers/Python/Level2/tower.py" />
+        <option value="$PROJECT_DIR$/programmers/Python/kakao2018/Block Game.py" />
+        <option value="$PROJECT_DIR$/programmers/Python/kakao2018/Find Road Game.py" />
+        <option value="$PROJECT_DIR$/programmers/Python function organization.txt" />
+        <option value="$PROJECT_DIR$/programmers/Python/kakao2018/File Sort.py" />
+        <option value="$PROJECT_DIR$/programmers/Python/Level2/l2_MarketPrice.py" />
+        <option value="$PROJECT_DIR$/programmers/Python/Level2/l2_Scovile.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="780" />
@@ -205,7 +208,9 @@
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="programmers" type="462c0819:PsiDirectoryNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Level2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -215,7 +220,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.python" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -234,7 +239,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tower">
+  <component name="RunManager" selected="Python.l2_Scovile">
     <configuration name="Block Game" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -247,7 +252,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Python/kakao2018/Block Game.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\LBuser\Desktop\myOwn\algorithm\programmers\Python\kakao2018\S_Block Game.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,7 +261,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Skill Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="File Sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -264,11 +269,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/Python/Winter2018" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/Python/kakao2018" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Python/Winter2018/Skill Tree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Python/kakao2018/File Sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,28 +282,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Visit length" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/Python/Winter2018" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\LBuser\Desktop\myOwn\algorithm\programmers\Python\Winter2018\S_Visit length.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="l2_IronStick" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="l2_MarketPrice" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -310,7 +294,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Python/Level2/l2_IronStick.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Python/Level2/l2_MarketPrice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="l2_Scovile" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/Python/Level2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\LBuser\Desktop\myOwn\algorithm\programmers\Python\Level2\TimeOver_Scovile.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -341,19 +346,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.l2_IronStick" />
-      <item itemvalue="Python.Visit length" />
-      <item itemvalue="Python.Skill Tree" />
       <item itemvalue="Python.Block Game" />
       <item itemvalue="Python.tower" />
+      <item itemvalue="Python.File Sort" />
+      <item itemvalue="Python.l2_MarketPrice" />
+      <item itemvalue="Python.l2_Scovile" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.tower" />
+        <item itemvalue="Python.l2_Scovile" />
+        <item itemvalue="Python.l2_MarketPrice" />
+        <item itemvalue="Python.File Sort" />
         <item itemvalue="Python.Block Game" />
-        <item itemvalue="Python.Skill Tree" />
-        <item itemvalue="Python.Visit length" />
-        <item itemvalue="Python.l2_IronStick" />
+        <item itemvalue="Python.tower" />
       </list>
     </recent_temporary>
   </component>
@@ -371,19 +376,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19299406" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26966292" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3134752" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3134752" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.32340425" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.20992908" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.13333334" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.5144124" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -526,19 +531,34 @@
           <option name="timeStamp" value="78" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/programmers/Python/kakao2018/Block Game.py</url>
-          <line>64</line>
+          <url>file://$PROJECT_DIR$/programmers/Python/kakao2018/S_Block Game.py</url>
+          <line>68</line>
           <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/programmers/Python/kakao2018/S_Block Game.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/programmers/Python/kakao2018/File Sort.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/programmers/Python/Level2/l2_MarketPrice.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/programmers/Python/Level2/TimeOver_Scovile.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="94" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_콜라츠 추측_solved.py" />
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_제일 작은 수 제거하기_solved.py" />
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_행렬의 덧셈_solved.py" />
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_Sort strings as you like_solved.py" />
-    <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_핸드폰 번호 가리기_solved.py" />
     <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_직사각형 별 찍기_solved.py" />
     <entry file="file://$PROJECT_DIR$/programmers/Level1/l1_Find a decimal number_solved.py" />
     <entry file="file://$PROJECT_DIR$/programmers/Level2/l2_피보나치 수_solved.py" />
@@ -582,13 +602,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Python function organization.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/programmers/Python/Level1/l1_Expressed as N.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -603,13 +616,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Python/Level2/l2_Printer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="988">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/programmers/Python/Level2/l2_IronStick.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -619,6 +625,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/programmers/Python/Level2/S_Number of 124 country.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Python/Winter2018/S_Visit length.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/programmers/Python/Level2/S_N least common multiple.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -636,55 +656,83 @@
     <entry file="file://$PROJECT_DIR$/programmers/Python/Level2/S_Landing.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Python/Winter2018/Skill Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Python/Level2/l2_Printer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Python/kakao2018/S_Block Game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1805">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Python/kakao2018/Find Road Game.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Python/kakao2018/File Sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1273">
+          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Python function organization.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/programmers/Python/Level2/S_Representation of numbers.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Python/Winter2018/S_Visit length.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Python/Winter2018/Skill Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Python/kakao2018/Block Game.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#788#1322#0" />
-            <element signature="e#1439#1961#0" />
-            <element signature="e#1863#2339#0" />
-            <element signature="e#3166#3638#0" />
-            <element signature="e#3886#4358#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/programmers/Python/Level1/l1_Create Strange Characters_servertry.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="779">
           <caret line="41" selection-start-line="41" selection-end-line="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/programmers/Python/Level2/tower.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        <state relative-caret-position="190">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Python/Level2/l2_MarketPrice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Python/Level2/TimeOver_Scovile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#64#77#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
