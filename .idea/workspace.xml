@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b243671-78c9-4f45-a746-da82bd190bf2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers/Python/Level2/l2_MarketPrice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/Python/kakao2018/File Sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/Python/kakao2018/Find Road Game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/Python/kakao2018/Block Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Python/kakao2018/S_Block Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/Python/Level2/TimeOver_Scovile.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Python/Level2/TimeOver_Scovile.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,15 +12,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/Python/kakao2018/S_Block Game.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1805">
-              <caret line="95" selection-start-line="95" selection-end-line="95" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/programmers/Python/kakao2018/Find Road Game.py">
           <provider selected="true" editor-type-id="text-editor" />
@@ -49,14 +35,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/programmers/Python/Level2/TimeOver_Scovile.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="225">
+              <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
               <folding>
                 <element signature="e#64#77#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/programmers/Python/Level2/l2_IronStick.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -118,7 +113,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/programmers/Level1/l1_핸드폰 번호 가리기.py" />
         <option value="$PROJECT_DIR$/programmers/Level1/l1_행렬의 덧셈.py" />
         <option value="$PROJECT_DIR$/programmers/Level1/l1_제일 작은 수 제거하기_solved.py" />
         <option value="$PROJECT_DIR$/programmers/Level1/l1_직사각형 별 찍기.py" />
@@ -169,6 +163,7 @@
         <option value="$PROJECT_DIR$/programmers/Python/kakao2018/File Sort.py" />
         <option value="$PROJECT_DIR$/programmers/Python/Level2/l2_MarketPrice.py" />
         <option value="$PROJECT_DIR$/programmers/Python/Level2/l2_Scovile.py" />
+        <option value="$PROJECT_DIR$/programmers/Python/Level2/TimeOver_Scovile.py" />
       </list>
     </option>
   </component>
@@ -204,6 +199,13 @@
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="programmers" type="462c0819:PsiDirectoryNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="programmers" type="462c0819:PsiDirectoryNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="kakao2018" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -377,6 +379,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26966292" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -616,13 +619,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Python/Level2/l2_IronStick.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/programmers/Python/Level2/S_Number of 124 country.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -728,11 +724,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/programmers/Python/Level2/TimeOver_Scovile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="225">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
           <folding>
             <element signature="e#64#77#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Python/Level2/l2_IronStick.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>

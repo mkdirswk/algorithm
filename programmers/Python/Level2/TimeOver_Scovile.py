@@ -56,6 +56,7 @@ start = timeit.default_timer()
 
 # 여기에 측정할 코드를 넣으세요
 print(solution(scoville, K))
+#
 
 stop = timeit.default_timer()
 print("%f" % (stop - start))
