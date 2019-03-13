@@ -9,15 +9,16 @@ def solution(prices):
     count = 1
     maintance = []
     for i in range(len(prices)):
-        for j in range(i + 1, len(prices)):
-            if prices[i] < prices[j] and j != len(prices) - 1:
-                maintance.append(count)
-                count = 1
-                continue
-            elif i == len(prices) - 1:
-                count = 0
-            else:
-                count += 1
+        if i != (len(prices) - 1):
+            for j in range(i + 1,len(prices)):
+                if prices[i] < prices[j]:
+                    count += 1
+                else:
+                    maintance.append(count)
+                    count = 1
+                    break
+        else:
+            maintance.append(0)
 
 
     return maintance
